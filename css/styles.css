@@ -1,0 +1,12 @@
+body{
+  background-color: #222;
+}
+
+.produto{
+  height: 200px;
+  background-color: #ccc;
+}
+
+.produto-2{
+  margin-top: 20px;
+}
