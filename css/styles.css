@@ -1,12 +1,40 @@
+/*Estilos gerais*/
 body{
-  background-color: #222;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.produto{
-  height: 200px;
-  background-color: #ccc;
+/* Header */
+
+.header{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #FEC63E;
+  padding: 15px;
 }
 
-.produto-2{
+.header_menu{
+  text-align: right;
+  display: inline-block;
+}
+
+.header_menu ul li{
+  display: inline-block;
+  margin-left: 25px;
   margin-top: 20px;
 }
+
+.header_menu ul li a{
+  color: #000;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  line-height: 20px;
+  padding: 10px 0;
+}
+
+.header_menu ul li a:hover{
+  color: #fff;
+}
+
+/* Introdução */
