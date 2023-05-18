@@ -202,10 +202,14 @@ p {
   margin-top: 20px;
 }
 
-.portfolio .call p {
-  color: #fff;
+.foto {
+  height: 200px; 
+  background-size: cover; 
+  background-repeat:no-repeat; 
+  width: 100%;
+  background-position: center bottom;       
 }
 
-.grid-16{
-  background-color: red;
+.portfolio .call p {
+  color: #fff;
 }
