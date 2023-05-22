@@ -324,15 +324,21 @@ p {
 
 .footer_redes ul li {
   display: inline-block;
+  height: 50px;
+  width: 50px;
+  background-position: center;
+  margin-right: 5px;
 }
 
 .footer_redes ul li a{
   border: 3px solid  #FEC63E;
   display: block;
   padding: 10px;
+  height: 50px;
+  width: 50px;
 }
 
-.footer_redes ul li a:hover{
+.footer_redes ul li:hover a:hover{
  border-color: #fff;
 }
 
