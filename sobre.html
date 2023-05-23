@@ -4,11 +4,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bikcraft</title>
+  <title>Bikcraft - Sobre</title>
   <link rel="stylesheet" href="node_modules/normalize.css/normalize.css">
   <link rel="stylesheet" href="node_modules/reset-css/reset.css">
   <link rel="stylesheet" href="node_modules/css-grid/css/grid.css">
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/sobre.css">
 </head>
 <body>  
   <header class="header">
@@ -18,7 +19,7 @@
       </a>
       <nav class="header_menu grid-12">
         <ul>
-          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="sobre.html" class="menu_ativo">Sobre</a></li>
           <li><a href="produtos.html">produtos</a></li>
           <li><a href="portfolio.html">Portfólio</a></li>
           <li><a href="contato.html">Contato</a></li>
@@ -27,79 +28,42 @@
     </div>
   </header>
 
-  <section class="introducao">
+  <section class="introducao-interna interna_sobre">
     <div class="container">
-      <h1>Bicicletas Feitas a Mão.</h1>
-      <blockquote class="quote-externo">
-        <p>“Não há nada em sua casa que você
-          não considere útil ou acredita ser”</p>
-          <cite>WILLIAM MORRIS</cite>
-      </blockquote>
-      <a href="produtos.html" class="btn">Orçamento</a>
+      <h1>Sobre</h1>
+      <p>Conheça mais sobre a Bikcraft.</p>
     </div>
   </section>
 
-  <section class="produtos container">
-    <h2 class="subtitulo">Produtos</h2>
-    <ul class="produtos_lista">
-
-      <li class="grid-1-3">
-        <div class="produtos_icone">
-          <img src="./img/bicicleta-passeio.png" alt="passeio">
-        </div>
-        <h3>Passeio</h3>
-        <p>Ainda sim existem duvida
-          a respeito de como a necessidade de renovação.</p>
-      </li>
-
-      <li class="grid-1-3">
-        <div class="produtos_icone">
-          <img src="./img/bicicleta-esportiva.png" alt="esporte">
-        </div>
-        <h3>Esporte</h3>
-        <p>Ainda sim existem duvida
-          a respeito de como a necessidade de renovação.</p>
-      </li>
-
-      <li class="grid-1-3">
-        <div class="produtos_icone">
-          <img src="./img/bicicleta-vintage.png" alt="retro">
-        </div>
-        <h3>Retro</h3>
-        <p>Ainda sim existem duvida
-          a respeito de como a necessidade de renovação.</p>
-      </li>
-    </ul>
-
-    <div class="call">
-      <p>Click aqui e veja os detalhes dos produtos.</p>
-      <a href="produtos.html" class="btn btn-preto">Produtos</a>
+  <section class="missao_sobre container">
+    <div class="grid-10">
+      <h2 class="subtitulo-interno">História, Missão e Visão.</h2>
+      <p>
+        Podemos já vislumbrar o modo pelo  qual a pelo consolidação
+        das estruturas faz parte de um processo de gerenciamento.
+        estruturas  estruturas estruturas .
+      </p>
+      <p>
+        Podemos já vislumbrar o modo pelo  qual a pelo consolidação
+        das estruturas faz parte de um processo de gerenciamento.
+        estruturas  estruturas estruturas .
+      </p>
     </div>
-  </section>
-  <!-- Felcha Produtos-->
-
-  <section class="portfolio">
-    <div class="container">
-      <h2 class="subtitulo">Portfólio</h2>
-      <ul class="portfolio_lista">
-        <li class="grid-8">
-          <div class="foto" style="background-image: url(./img/retro-2.jpeg);"></div> <!-- background-position: 50% 90%;-->
-        </li>
-
-        <li class="grid-8">
-          <div class="foto" style="background-image: url(./img/passeio-4.jpg);"></div> <!-- background-position: 50% 100%;-->
-        </li>
-
-        <li class="grid-16">
-          <div class="foto" style="background-image: url(./img/passeio-2.jpg); background-position: left 85%; height: 250px;"></div> <!-- -->
-        </li>
+    <div class="grid-6">
+      <h2 class="subtitulo-interno">Valores</h2>
+      <ul>
+        <li>- Qualidade no processo com</li>
+        <li>- foco no cliente sem perder a</li>
+        <li>- diversão, preservando a </li>
+        <li>- natureza com sustentabilidade.</li>
       </ul>
-
-      <div class="call">
-        <p>Conhça mais o nosso Portfólio.</p>
-        <a href="portfolio.html" class="btn">Portfólio</a>
-      </div>
     </div>
+
+    <div class="grid-16 foto-equipe" style="background: url(./img/equip-bike.jpg) no-repeat center; 
+    width: 100%; height: 374px;">
+
+    </div>
+
   </section>
 
   <section class="qualidade container">
@@ -125,11 +89,6 @@
         </p>
       </li>
     </ul>
-    <div class="call">
-      <p>Conhça mais a nossa História.</p>
-      <a href="sobre.html" class="btn btn-preto">Sobre</a>
-    </div>
-  </div>
   </section>
 
   <section class="quebra">
