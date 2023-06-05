@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 de2d229c3155493d9ee6a1e30f411028454ccbd2 Igor Valerio <igorv386@gmail.com> 1684158004 -0300	commit (initial): first commit
+de2d229c3155493d9ee6a1e30f411028454ccbd2 0000000000000000000000000000000000000000 Igor Valerio <igorv386@gmail.com> 1684158013 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 de2d229c3155493d9ee6a1e30f411028454ccbd2 Igor Valerio <igorv386@gmail.com> 1684158013 -0300	Branch: renamed refs/heads/master to refs/heads/main
+de2d229c3155493d9ee6a1e30f411028454ccbd2 d2f07468f883f649e9cce84a6a3504e5e5844cd2 Igor Valerio <igorv386@gmail.com> 1684165527 -0300	commit: iniciando header
+d2f07468f883f649e9cce84a6a3504e5e5844cd2 8be15d5a497a9988bd6ddd265506f47487458b4f Igor Valerio <igorv386@gmail.com> 1684166610 -0300	commit: gitignore
+8be15d5a497a9988bd6ddd265506f47487458b4f 145b3b0775aa8494ac5b33bfbbd2abb0c7f7f820 Igor Valerio <igorv386@gmail.com> 1684182478 -0300	commit: banner introducao
+145b3b0775aa8494ac5b33bfbbd2abb0c7f7f820 6201580b80f80b27ae94b3c9922a3a49290c3c3b Igor Valerio <igorv386@gmail.com> 1684267128 -0300	commit: area de produtos da home
+6201580b80f80b27ae94b3c9922a3a49290c3c3b 013e0f7e4ed0c41bb75cf92dd7a8a18863868186 Igor Valerio <igorv386@gmail.com> 1684344251 -0300	commit: ajustando imagens da home area de portifolio
+013e0f7e4ed0c41bb75cf92dd7a8a18863868186 b116fbde9f9407ed720f5e9a90946f62090ca758 Igor Valerio <igorv386@gmail.com> 1684428063 -0300	commit: refatorando area de portifolio Home
+b116fbde9f9407ed720f5e9a90946f62090ca758 0fbcc2c49bc12c08f9062255d0b7061a2e3755c0 Igor Valerio <igorv386@gmail.com> 1684616627 -0300	commit: are de qualidade HOME
+0fbcc2c49bc12c08f9062255d0b7061a2e3755c0 1f3fe76dd8586e6080414c8bfa7c185412450f0d Igor Valerio <igorv386@gmail.com> 1684746175 -0300	commit: iniciando footer
+1f3fe76dd8586e6080414c8bfa7c185412450f0d e9ee9d86e5778be6dd58e8e3578b3a95bd9197df Igor Valerio <“igor.valerio@hotmail.com”> 1684794723 -0300	commit: correção de bug em icone de redes sociais
+e9ee9d86e5778be6dd58e8e3578b3a95bd9197df 9936d9826535187a37a4e211d6f29f22eba7ec81 Igor Valerio <“igor.valerio@hotmail.com”> 1684875264 -0300	commit: finalizando página sobre

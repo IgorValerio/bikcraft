@@ -161,7 +161,6 @@ p {
   width: 100%;
   margin-top: 92px;
   height: 160px;
-  background-size: cover;
   text-align: center;
   color: #fff;
   padding-top: 30px;
@@ -323,7 +322,7 @@ p {
 .quebra{
   width: 100%;
   height: 220px;
-  background: url("../img/esporte-3.jpeg") no-repeat center;
+  background: url("../img/produtos/esporte-3.jpeg") no-repeat center;
   background-size: cover;
   text-align: center;
   padding-top: 40px;
